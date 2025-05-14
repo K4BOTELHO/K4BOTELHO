@@ -32,5 +32,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-origina
 
   ##
 
-![Snake animation](https://raw.githubusercontent.com/K4BOTELHO/K4BOTELHO/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/K4BOTELHO/K4BOTELHO/output/snake.svg?color_background=%23f2f2f2)
+
 
