@@ -29,7 +29,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-o
 src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
 
 </div>
-  
+
+  ##
 
 ![Snake animation](https://raw.githubusercontent.com/K4BOTELHO/K4BOTELHO/output/github-contribution-grid-snake.svg)
 
