@@ -1,33 +1,28 @@
-name: Generate GitHub Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake SVG
+      - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: K4BOTELHO
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # Define a paleta com cobra vermelha e barra verde
-          palette: |
-            #FF0000 #e6e6e6 #00FF00 #ffffff #000000
+          snake_color: "#FF0000"
+          progress_bar_color: "#00FF00"
+          progress_bar_y_position: 0.65
 
-      - name: Ajustar posição da barra verde no SVG
-        run: |
-          sed -i 's/y="170"/y="160"/g' dist/github-contribution-grid-snake.svg || true
-
-      - name: Commit e push do SVG
+      - name: Commit do resultado
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
