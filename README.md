@@ -17,14 +17,18 @@
 ---
 
  ### 🧠 Linguagens de Programação
-- `JavaScript` | `C` | `Lua` | `HTML` | `Python` | `Ladder` | `PHP` | `C++` | `Java`
+- `JavaScript` | `Java` | `C` | `C++` | `Lua` | `HTML` | `Python` | `PHP` | `Ladder`
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ka-Js" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ka-C" height="60" width="65" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Ka-Lua" height="60" width="65" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Ka-HTML" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ka-Python" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ka-Js" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/JavaScript/JavaScript.svg">
+  <img align="center" alt="Ka-J" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/JAVA/JAVA.svg">
+  <img align="center" alt="Ka-C" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/C/C.svg">
+  <img align="center" alt="Ka-C++" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/C%2B%2B/C%2B%2B.svg">
+  <img align="center" alt="Ka-Lua" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Lua/Lua.svg">
+  <img align="center" alt="Ka-HTML" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/HTML/HTML.svg">
+  <img align="center" alt="Ka-Python" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Python/Python.svg">
+  <img align="center" alt="Ka-PHP" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/PHP/PHP.svg">
+
 
 ---
 
@@ -38,14 +42,15 @@
 ---
 
  ### 👾 Outros Softwares
-- `Adobe Illustrator` | `Adobe Photoshop` | `Trello` | `CorelDRAW`
+- `Adobe Illustrator` | `Adobe Photoshop` | `CorelDRAW` | `Trello` | `Notion`
 
 <div> 
   <div style="display: inline_block"><br> 
   <img align="center" alt="Ka-illustrator" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Illustrator/Adobe-Illustrator.svg">
   <img align="center" alt="Ka-Photoshop" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Photoshop/Adobe-Photoshop.svg">
-  <img align="center" alt="Ka-Trello" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
   <img align="center" alt="Ka-Corel" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Corel%20Draw/Corel-Draw.svg">
+  <img align="center" alt="Ka-Trello" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Trello/Trello.svg">
+  <img align="center" alt="Ka-Notion" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Notion/Notion.svg">
 
 ---
 
