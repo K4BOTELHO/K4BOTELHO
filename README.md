@@ -54,5 +54,16 @@
 
 ---
 
+<div> 
+  
+  <a href="https://www.instagram.com/kawe.botelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/SjJvCkngyR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dev.kabotelho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/kawê-botelho-593806145" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+---
+
 <p align="center">✨ Sempre em busca de novos desafios e oportunidades para transformar ideias em soluções inteligentes. ✨</p>
 
