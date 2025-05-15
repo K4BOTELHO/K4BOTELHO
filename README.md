@@ -42,8 +42,8 @@
 
 <div> 
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Ka-illustrator" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Ka-Photoshop" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Ka-illustrator" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Illustrator/Adobe-Illustrator.svg">
+  <img align="center" alt="Ka-Photoshop" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Photoshop/Adobe-Photoshop.svg">
   <img align="center" alt="Ka-Trello" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
 
 ---
