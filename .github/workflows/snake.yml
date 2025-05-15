@@ -1,29 +1,29 @@
-name: Generate Snake
+name: snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 */12 * * *" # a cada 12 horas
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Gerar animação da cobrinha
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: K4BOTELHO
           outputs: |
             dist/github-contribution-grid-snake.svg
-          snake_color: "#FF0000"
-          progress_bar_color: "#00FF00"
-          progress_bar_y_position: 0.65
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit do resultado
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Verifica arquivos gerados
+        run: ls -la dist
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
