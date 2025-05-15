@@ -56,7 +56,7 @@
 
 ### 🐍 Joguinho da cobrinha 
 
-![Snake animation](https://github.com/K4BOTELHO/K4BOTELHO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/K4BOTELHO/K4BOTELHO/output/github-contribution-grid-snake.svg)
 
 ---
 
