@@ -12,7 +12,7 @@
 
 ---
 
-![Theme](https://github-readme-stats.vercel.app/api?username=KABOTELHO&theme=great-gatsby&show_icons=true)
+![Theme](https://github-readme-stats.vercel.app/api?username=K4BOTELHO&theme=great-gatsby&show_icons=true)
 
 ---
 
