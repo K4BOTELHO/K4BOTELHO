@@ -37,7 +37,7 @@
 
 ---
 
- ### 🎨 Softwares Gráficos
+ ### 👾 Outros Softwares
 - `Adobe Illustrator` | `Adobe Photoshop` | `Trello` | `CorelDRAW`
 
 <div> 
@@ -45,6 +45,7 @@
   <img align="center" alt="Ka-illustrator" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Illustrator/Adobe-Illustrator.svg">
   <img align="center" alt="Ka-Photoshop" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Adobe%20Photoshop/Adobe-Photoshop.svg">
   <img align="center" alt="Ka-Trello" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
+  <img align="center" alt="Ka-Corel" height="40" width="45" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/Corel%20Draw/Corel-Draw.svg">
 
 ---
 
