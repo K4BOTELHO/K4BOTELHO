@@ -12,10 +12,6 @@
 
 ---
 
-![Theme](https://github-readme-stats.vercel.app/api?username=K4BOTELHO&theme=great-gatsby&show_icons=true&cache_seconds=1800)
-
----
-
  ### 🧠 Linguagens de Programação
 - `JavaScript` | `Java` | `C` | `C++` | `Lua` | `HTML` | `Python` | `PHP` | `Ladder`
 
